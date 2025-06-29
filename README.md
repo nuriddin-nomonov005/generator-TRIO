@@ -1,4 +1,4 @@
- Generator-TRIO
+# Generator-TRIO
 
 Generator-TRIO is a Python script designed to quickly generate security-related paths and Google Dork queries for WordPress, Laravel, and general reconnaissance purposes. This tool is intended for testing and educational use in the field of cybersecurity.
 
